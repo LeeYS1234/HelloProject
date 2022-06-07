@@ -35,6 +35,11 @@ public class FileReadTestCase {
 	@Test
 	public void 파일읽기테스트() throws IOException {
 		
+		
+		
+		//assertArrayEquals(0, reader) ;
+		
 	}
+
 
 }
